@@ -56,9 +56,9 @@ export const botConfig = {
   embeds: {
     colors: {
       primary: "#336699",
-      secondary: "#2F3136",
-      success: "#57F287",
-      error: "#ED4245",
+      secondary: "#336699",
+      success: "#336699",
+      error: "#336699",
       warning: "#FEE75C",
       info: "#3498DB",
       light: "#FFFFFF",
@@ -71,11 +71,11 @@ export const botConfig = {
       red: "#ED4245",
       black: "#000000",
       giveaway: {
-        active: "#57F287",
-        ended: "#ED4245",
+        active: "#336699",
+        ended: "#336699",
       },
       ticket: {
-        open: "#57F287",
+        open: "#336699",
         claimed: "#FAA61A",
         closed: "#ED4245",
         pending: "#99AAB5",
